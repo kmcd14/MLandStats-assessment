@@ -9,7 +9,7 @@
 <h2 style=color:#DDA0DD><b><u>Table of Contents</b></u></h2></summary>
   <ol>
     <li><a href='#Description'> Description</a></li>
-    <li><a href="#Script">How To Get The Respoistory on Your Machine</a></li>
+    <li><a href="#Script">How To Get e Respoistory on Your Machine</a></li>
     <li><a href="#Jupyter">Running Jupyter Notebook</a></li>
     <li><a href='#Technologies_Used'>Technologies Used</a></li>
     <li><a href="#Libraries_Used">Libraries Used</a></li>

@@ -1,0 +1,21 @@
+### Requirements for scikit-learn.ipynb ### 
+
+python==3.8.11 
+matplotlib==3.4.2 # for pyplot
+pandas==1.3.2
+numpy==1.20.3
+scikit-learn==0.24.2 
+seaborn==0.11.2 
+
+
+
+### Requirements for scipy-stats.ipynb ###
+
+python==3.8.11 # collections is part of the python standard library and installed by default
+pandas==1.3.2
+numpy==1.20.3
+matplotlib==3.4.2 # for pyplot
+seaborn==0.11.2 
+scipy==1.7.1 # required for scipy.stats and scipy.special
+statsmodels== 0.12.2
+

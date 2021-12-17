@@ -113,6 +113,7 @@ In the future I will definately be spending more time getting to grips with ANOV
 
 https://github.com/kmcd14/MLandStats-assessment
 
+
 <br> </il>
 
 
@@ -120,10 +121,12 @@ https://github.com/kmcd14/MLandStats-assessment
 <img src='images/repository.PNG'>
 
 <br>
+
 <li>Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS</li>
 <li> Open your teminal.</li>
 <li> Naviagte to the location where you want to store the cloned directory.</li>
 <li>In the terminal type the command:
+
 
 <br>
 
@@ -131,10 +134,12 @@ https://github.com/kmcd14/MLandStats-assessment
     $git clone git@github.com:kmcd14/MLandStats-assessment.git
 
 
+<br>
 </li>
 <li>Press enter. The cloned reposistory is now on your machine.
 </li>
 </ol>
+
 
 <br></br>
 
@@ -192,9 +197,11 @@ Note:
 
 If the jupyter interface doesn't auctomatically open in your browser try specifying the browser eg:
 
+<br>
+
       jupyter lab —browser=chrome
 
-
+<br>
 Jupyter Notebook has a full troubleshooting guide which can be found:
  https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html
 <br></br>

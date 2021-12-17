@@ -120,19 +120,19 @@ https://github.com/kmcd14/MLandStats-assessment
 
 <img src='images/repository.PNG'>
 
-<br>
+<br></br>
 
 <li>Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS</li>
 <li> Open your teminal.</li>
 <li> Naviagte to the location where you want to store the cloned directory.</li>
 <li>In the terminal type the command:
 
+<br>
 
 <br>
 
     
     $git clone git@github.com:kmcd14/MLandStats-assessment.git
-
 
 <br>
 </li>

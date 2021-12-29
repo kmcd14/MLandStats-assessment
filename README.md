@@ -203,6 +203,7 @@ If the jupyter interface doesn't auctomatically open in your browser try specify
 
 <br>
 Jupyter Notebook has a full troubleshooting guide which can be found:
+
  https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html
 <br></br>
 

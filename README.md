@@ -123,7 +123,7 @@ https://github.com/kmcd14/MLandStats-assessment
 
 <img src='images/repository.PNG'>
 
-<br></br>
+<br>
 
 <li>Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS</li>
 <li> Open your terminal.</li>
